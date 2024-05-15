@@ -82,8 +82,8 @@ function Header() {
         ul className = "flex justify-evenly items-center my-5 md:my-0 md:space-x-5 md:mr-5" >
         <
         li >
-        <
-        a href = { linkdein }
+        
+        <a href = { linkdein }
         target = "_blank"
         rel = "noreferrer noopener" >
         <
